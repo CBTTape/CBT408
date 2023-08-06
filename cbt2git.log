@@ -1,0 +1,35 @@
+2023-08-06 03:55:28.373857 - Initialized conversion of CBT408
+2023-08-06 03:55:28.759592 - Received CBT.V505.FILE408.PDS from FILE408.XMI 
+2023-08-06 03:55:28.761975 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE408.PDS, moved to PDS/$$$#DATE
+2023-08-06 03:55:28.763035 - Found #ALD.txt (text/plain) in CBT.V505.FILE408.PDS, moved to PDS/#ALD
+2023-08-06 03:55:28.763944 - Found #ALDR.txt (text/plain) in CBT.V505.FILE408.PDS, moved to PDS/#ALDR
+2023-08-06 03:55:28.763952 - Found #DCBD.bin containing application/octet-stream, moved to PDS/#DCBD
+2023-08-06 03:55:28.765837 - Found #DIAG.txt (text/plain) in CBT.V505.FILE408.PDS, moved to PDS/#DIAG
+2023-08-06 03:55:28.765845 - Found #DIE.bin containing application/octet-stream, moved to PDS/#DIE
+2023-08-06 03:55:28.767531 - Found #DROP.txt (text/plain) in CBT.V505.FILE408.PDS, moved to PDS/#DROP
+2023-08-06 03:55:28.768369 - Found #DSA.txt (text/plain) in CBT.V505.FILE408.PDS, moved to PDS/#DSA
+2023-08-06 03:55:28.769227 - Found #DSORG.txt (text/plain) in CBT.V505.FILE408.PDS, moved to PDS/#DSORG
+2023-08-06 03:55:28.770116 - Found #ENTER.txt (text/plain) in CBT.V505.FILE408.PDS, moved to PDS/#ENTER
+2023-08-06 03:55:28.770994 - Found #EXIT.txt (text/plain) in CBT.V505.FILE408.PDS, moved to PDS/#EXIT
+2023-08-06 03:55:28.771810 - Found #PARMS.txt (text/plain) in CBT.V505.FILE408.PDS, moved to PDS/#PARMS
+2023-08-06 03:55:28.772626 - Found #PLIENV.txt (text/plain) in CBT.V505.FILE408.PDS, moved to PDS/#PLIENV
+2023-08-06 03:55:28.773484 - Found #PUT.txt (text/plain) in CBT.V505.FILE408.PDS, moved to PDS/#PUT
+2023-08-06 03:55:28.774348 - Found #REGS.txt (text/plain) in CBT.V505.FILE408.PDS, moved to PDS/#REGS
+2023-08-06 03:55:28.775209 - Found #RELOAD.txt (text/plain) in CBT.V505.FILE408.PDS, moved to PDS/#RELOAD
+2023-08-06 03:55:28.775216 - Found #SAL.bin containing application/octet-stream, moved to PDS/#SAL
+2023-08-06 03:55:28.776945 - Found #SEARCH.txt (text/plain) in CBT.V505.FILE408.PDS, moved to PDS/#SEARCH
+2023-08-06 03:55:28.777865 - Found #SLD.txt (text/plain) in CBT.V505.FILE408.PDS, moved to PDS/#SLD
+2023-08-06 03:55:28.778794 - Found #SLDR.txt (text/plain) in CBT.V505.FILE408.PDS, moved to PDS/#SLDR
+2023-08-06 03:55:28.779644 - Found #SORT.txt (text/plain) in CBT.V505.FILE408.PDS, moved to PDS/#SORT
+2023-08-06 03:55:28.779652 - Found #TEST.bin containing application/octet-stream, moved to PDS/#TEST
+2023-08-06 03:55:28.781438 - Found #UNALIGN.txt (text/plain) in CBT.V505.FILE408.PDS, moved to PDS/#UNALIGN
+2023-08-06 03:55:28.782323 - Found #USING.txt (text/plain) in CBT.V505.FILE408.PDS, moved to PDS/#USING
+2023-08-06 03:55:28.783183 - Found #XXC.txt (text/plain) in CBT.V505.FILE408.PDS, moved to PDS/#XXC
+2023-08-06 03:55:28.784081 - Found @FILE408.txt (text/plain) in CBT.V505.FILE408.PDS, moved to PDS/@FILE408
+2023-08-06 03:55:28.784954 - Found GSAMCALL.txt (text/plain) in CBT.V505.FILE408.PDS, moved to PDS/GSAMCALL
+2023-08-06 03:55:28.785890 - Found GSB.txt (text/plain) in CBT.V505.FILE408.PDS, moved to PDS/GSB
+2023-08-06 03:55:28.785897 - Found MOREMACS.bin containing application/octet-stream, moved to PDS/MOREMACS
+2023-08-06 03:55:28.787187 - Found NEWMACLB.bin containing application/octet-stream, moved to PDS/NEWMACLB
+2023-08-06 03:55:28.789270 - Found SFR.txt (text/plain) in CBT.V505.FILE408.PDS, moved to PDS/SFR
+2023-08-06 03:55:28.790111 - Found SSSHIPE.txt (text/plain) in CBT.V505.FILE408.PDS, moved to PDS/SSSHIPE
+2023-08-06 03:55:28.790996 - Found SSSHSPE.txt (text/plain) in CBT.V505.FILE408.PDS, moved to PDS/SSSHSPE
